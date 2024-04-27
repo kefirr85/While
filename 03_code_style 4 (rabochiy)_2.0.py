@@ -75,13 +75,13 @@ my_list = [2, 3, 4, 5, 6, ]
 
 # reformat кода
 
-x, y_1 = 3, 8
+x, y1 = 3, 8
 
 if x == 3:
     print(42)
 
 if x < 0:
-    if y_1 > 0:
+    if y1 > 0:
         print('налево!')
     else:
         print('направо!')
@@ -98,7 +98,7 @@ my_favorite_livestock = ['cat', 'wolf', 'ostrich']
 if 'lion' in my_favorite_livestock:
     print('Wow!')
 
-MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
+MyFavoriteLivestock = ['cat', 'wolf', 'ostrich']
 # но такой стиль используется для названий классов
 
 
